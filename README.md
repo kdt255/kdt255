@@ -12,6 +12,3 @@ Mostly focused on UI design, frameworks, and game-related tooling.<br/>
 <img width="860" height="484" alt="resim" src="https://github.com/user-attachments/assets/3e7a3040-e972-4d64-aba8-4d28c728e26b" />
 
 </div>
-
-
-bu işte amk
