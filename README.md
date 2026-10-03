@@ -1,7 +1,6 @@
 <div align="center">
   
-![Header](./github-header-banner.png)
-
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/1a9e7024-564b-4dd0-b7f4-caee1a64d6c6" />
 
 <br>
 
