@@ -1,5 +1,17 @@
 <div align="center">
   
-<img width="1224" height="1285" alt="kdt255" src="https://github.com/user-attachments/assets/1bfd4a22-91bd-4f3a-9da6-2ed3a5ba0402" />
+# kdt255
+
+I enjoy building things with C++ and creating custom ImGui interfaces.<br/>
+Mostly focused on UI design, frameworks, and game-related tooling.<br/>
+
+**C++**  ·  **UI Development**  ·  **Reverse Engineering**
+
+**Keep learning. Keep building. Keep breaking things.**
+
+<img width="860" height="484" alt="resim" src="https://github.com/user-attachments/assets/3e7a3040-e972-4d64-aba8-4d28c728e26b" />
 
 </div>
+
+
+bu işte amk
