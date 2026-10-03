@@ -11,6 +11,9 @@
 <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/ImGui-111111?style=for-the-badge&logo=imgui&logoColor=white">
 <img src="https://img.shields.io/badge/Reverse%20Engineering-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
+<a href="https://discord.com/users/801422093950255114">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
 #
 
