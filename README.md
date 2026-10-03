@@ -1,65 +1,31 @@
 <div align="center">
-  
-<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/1a9e7024-564b-4dd0-b7f4-caee1a64d6c6" />
 
-<br>
+  ### 𝚔𝚍𝚝𝟸𝟻𝟻
 
-# kdt255
-<br>
+<p>
+  <sub>
+    Building interfaces, frameworks and game-related tooling.
+  </sub>
+</p>
 
-<table>
-<tr>
-<td align="center" width="250">
+<img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/ImGui-111111?style=for-the-badge&logo=imgui&logoColor=white">
+<img src="https://img.shields.io/badge/Reverse%20Engineering-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
 
-**C++**
+#
 
-Modern C++  
-Systems & tooling
+<img
+  width="860"
+  alt="kdt255"
+  src="https://github.com/user-attachments/assets/b1a50a4e-7a0a-41a2-9f22-77dd705b1ffb"/>
 
-</td>
+### <code>Kayfariki</code>
 
-<td align="center" width="250">
-
-**IMGUI**
-
-Custom interfaces  
-UI architecture
-
-</td>
-
-<td align="center" width="250">
-
-**RE**
-
-Analysis  
-Game tooling
+<sub>
+<i>Ukrainian: Кайфарики — “those who enjoy life”</i>
+</sub>
 
 </td>
 </tr>
-</table>
-
-<table>
-<tr>
-<td align="center">
-
-### Currently
-
-C++ · ImGui · Frameworks
-
-</td>
-<td align="center">
-
-### Interests
-
-UI/UX · Reverse Engineering · Game Tools
-
-</td>
-</tr>
-</table>
-
-
-### `Keep learning. Keep building. Keep breaking things.`
-
-<img width="860" height="484" alt="2d2e5a6f76cb9bd9270af115d74fafa9" src="https://github.com/user-attachments/assets/b1a50a4e-7a0a-41a2-9f22-77dd705b1ffb" />
 
 </div>
